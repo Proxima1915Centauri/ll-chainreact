@@ -8,3 +8,4 @@ abwechslungsreicher gestalten!
 ## Regeln
 
 1. [Basics](basics.md): Ein Überblick über alle neuen Regeln.
+2. [Spezialfälle](spezial.md): Eine Sammlung an möglichen Spezialfällen.
